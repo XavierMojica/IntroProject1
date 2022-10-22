@@ -2,7 +2,9 @@
 title: "Beer and Brew Project"
 author: "Xavier Mojica"
 date: "2022-10-15"
-output: html_document
+output: 
+  html_document: default
+  
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
